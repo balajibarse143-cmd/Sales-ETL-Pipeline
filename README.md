@@ -17,5 +17,10 @@ This project demonstrates a simple ETL pipeline using PySpark.
 5. Load output
 
 ##  Run
-```bash
+
 python scripts/etl_pipeline.py
+
+
+##  Output
+
+Category-wise total sales dataset
